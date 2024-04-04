@@ -21,7 +21,19 @@
     font-size: 20px;
     margin: 1%;
 }
-
-body{
-    background-color: rgb(255, 255, 255);
+#e{
+    font-family: "Merienda", cursive;
+    font-size: 20px;
+    margin: 1%;
+}
+#f{
+    font-family: "Merienda", cursive;
+    font-size: 20px;
+    margin: 1%;
+}
+#g{
+    text-align: end;
+    font-family: "Merienda", cursive;
+    font-size: 20px;
+    margin: 1%;
 }
