@@ -4,36 +4,53 @@
     text-align: center;
     margin: 1%;
     font-weight: bold;
-    text-shadow: 0px 0px 25px greenyellow;
+    text-decoration: underline;
+    text-shadow: 0px 0px 50px greenyellow;
+    color: white;
 }
 #b{
     font-family: "Merienda", cursive;
     font-size: 20px;
     margin: 1%;
+    text-shadow: 0px 0px 35px greenyellow;
+    color: white;
 }
 #c{
     font-family: "Merienda", cursive;
     font-size: 20px;
     margin: 1%;
+    text-shadow: 0px 0px 35px greenyellow;
+    color: white;
 }
 #d{
     font-family: "Merienda", cursive;
     font-size: 20px;
     margin: 1%;
+    text-shadow: 0px 0px 35px greenyellow;
+    color: white;
 }
 #e{
     font-family: "Merienda", cursive;
     font-size: 20px;
     margin: 1%;
+    text-shadow: 0px 0px 35px greenyellow;
+    color: white;
 }
 #f{
     font-family: "Merienda", cursive;
     font-size: 20px;
     margin: 1%;
+    text-shadow: 0px 0px 35px greenyellow;
+    color: white;
 }
 #g{
     text-align: end;
     font-family: "Merienda", cursive;
     font-size: 20px;
     margin: 1%;
+    text-shadow: 0px 0px 35px greenyellow;
+    color: white;
+}
+body{
+    background-color: black;
 }
