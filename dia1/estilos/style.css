@@ -1,0 +1,27 @@
+#a{
+    font-family: "Merienda", cursive;
+    font-size: 50px;
+    text-align: center;
+    margin: 1%;
+    font-weight: bold;
+    text-shadow: 0px 0px 25px greenyellow;
+}
+#b{
+    font-family: "Merienda", cursive;
+    font-size: 20px;
+    margin: 1%;
+}
+#c{
+    font-family: "Merienda", cursive;
+    font-size: 20px;
+    margin: 1%;
+}
+#d{
+    font-family: "Merienda", cursive;
+    font-size: 20px;
+    margin: 1%;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
