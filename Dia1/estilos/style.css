@@ -1,0 +1,46 @@
+#a{
+    font-family: "Merienda", cursive;
+    font-size: 50px;
+    text-align: center;
+    margin: 10px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-shadow: 0px 0px 50px greenyellow;
+    color: white;
+}
+#b{
+    font-family: "Merienda", cursive;
+    font-size: 23px;
+    margin: 50px;
+    text-shadow: 0px 0px 35px greenyellow;
+    color: white;
+    text-align: justify;
+    border: white 2px solid;
+    
+}
+#g{
+    text-align: end;
+    font-family: "Merienda", cursive;
+    font-size: 21px;
+    margin: 50px;
+    text-shadow: 0px 0px 35px greenyellow;
+    color: white;
+    border: white 2px solid;
+    width: 310px;
+    float: right;
+    
+}
+body{
+    background-color: black;
+}
+#h{
+    box-sizing: border-box 10px;
+    box-shadow: inset red;
+    width: 150px;
+    height: 150px;
+    filter: invert(100%);
+    display: block;
+    margin: 0 auto;
+    box-shadow: 0px 0px 40px 0px ;
+    border-radius: 30px;
+}
