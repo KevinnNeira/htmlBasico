@@ -11,8 +11,14 @@
     font-size: 13px;
     writing-mode: horizontal-tb
 }
+#cn{
+    font-family: "Reem Kufi Fun", sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: left;
+}
 #e{
-    
     display: inline-block;
     box-sizing: border-box 10px;
     width: 200px;
