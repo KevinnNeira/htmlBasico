@@ -1,5 +1,35 @@
+#a{
+    font-family: "Merienda", cursive;
+    text-decoration: underline;
+    text-align: center;
+    filter: invert(100%);
+}
+#b{
+    filter: invert(100%);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 td, th{
+    font-size: 10px;
+    background-color: white;
+    box-shadow: 12px;
     border: 1px solid;
     padding: 8px;
     text-align: left;
+}
+td:hover{
+    font-size: 10px;
+    background-color: rgb(144, 144, 228);
+    box-shadow: 12px;
+    border: 1px solid;
+    padding: 8px;
+    text-align: left;
+}
+th{
+    background-color: rgb(144, 144, 228);
+}
+
+body{
+    background-color: rgb(32, 32, 32);
 }
