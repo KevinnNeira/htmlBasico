@@ -33,12 +33,51 @@
     background-color: white;
     width: calc(100%-100px);
     margin-left: 300px;
-    height: 100vh;
 }
 body{
     background-color:rgb(32, 32, 32);
 }
 #contenido{
+    justify-content: center;
     font-family: "Reem Kufi Fun", sans-serif;
     margin: 10px;
+}
+#content{
+    justify-content: center;
+    font-family: "Reem Kufi Fun", sans-serif;
+    margin: 10px;
+}
+#conte{
+    justify-content: center;
+    font-family: "Reem Kufi Fun", sans-serif;
+    margin: 10px;
+}
+#hab{
+    justify-content: center;
+    font-family: "Reem Kufi Fun", sans-serif;
+    margin: 10px;
+}
+#idi{
+    justify-content: center;
+    font-family: "Reem Kufi Fun", sans-serif;
+    margin: 10px;
+}
+#cer{
+    justify-content: center;
+    font-family: "Reem Kufi Fun", sans-serif;
+    margin: 10px;
+}
+#zx,
+#xz,
+#cv,
+#vc,
+#bn,
+#nb,
+#b,
+#c,
+#d,
+#k{
+    margin: 10px;
+    justify-content: center;
+    font-size: 18px;
 }
