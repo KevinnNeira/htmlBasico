@@ -1,0 +1,38 @@
+#a{
+    font-family: "Merienda", cursive;
+    text-align: center;
+    font-size: 50px;
+    filter: invert(100%);
+}
+#b{
+    font-family: "Merienda", cursive;
+    text-align: center;
+    font-size: 30px;
+    filter: invert(100%);
+    margin: 10px;
+}
+#c{
+    font-family: "Merienda", cursive;
+    text-align: center;
+    font-size: 30px;
+    filter: invert(100%);
+    margin: 10px;
+}
+#d{
+    font-family: "Merienda", cursive;
+    text-align: center;
+    font-size: 30px;
+    filter: invert(100%);
+    margin: 10px;
+}
+.Datos{
+    text-align: center;
+    margin-top: 0 auto;
+    margin-right: 10%;
+    margin-left: 10%;
+    border-radius: 2%;
+    background-color: rgb(32, 32, 32);
+}
+.input{
+    margin: 100px;
+}
